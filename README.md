@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Karolcia-99
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript and React
+- 📫 You can reach me at karolinakowalczykwork@gmail.com
 
 <!---
 Karolcia-99/Karolcia-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
