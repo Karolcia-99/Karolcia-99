@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karolcia-99
-- 👀 I’m interested in web development
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Javascript and React
 - 📫 You can reach me at karolinakowalczykwork@gmail.com
 
